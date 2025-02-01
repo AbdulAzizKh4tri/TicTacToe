@@ -1,6 +1,8 @@
 # Tic Tac Toe
 you know what a tic-tac-toe is.
 
+[Click here to play!](https://abdulazizkh4tri.github.io/TicTacToe/tictactoe.html)
+
 ## Features
 - you can lose (optional)
 - you can win (sometimes)
